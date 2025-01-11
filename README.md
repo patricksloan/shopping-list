@@ -1,3 +1,6 @@
 - Bacon
 - Eggs
 - Pasta
+- Bananas
+- Coffee
+- More Coffee
